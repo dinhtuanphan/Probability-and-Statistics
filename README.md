@@ -3,3 +3,4 @@
 - Hypothesis testing
 - Exploratory Data Analysis
 - Regression
+- Classification
