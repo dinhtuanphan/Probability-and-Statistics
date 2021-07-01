@@ -4,3 +4,4 @@
 - Exploratory Data Analysis
 - Regression
 - Classification
+- Learning Tips
