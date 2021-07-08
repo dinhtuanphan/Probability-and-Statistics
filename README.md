@@ -1,4 +1,4 @@
-# Statistics
+# Probability and Statistics
 - Probability distribution
 - Hypothesis testing
 - Exploratory Data Analysis
